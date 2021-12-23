@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 39.01722815800227,
+               "lng" : -76.76164203927631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.01722815800227,
+                  "lng" : -76.76164203927631
+               },
+               "southwest" : {
+                  "lat" : 39.01722815800227,
+                  "lng" : -76.76164203927631
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
+         "name" : "COLLEGE OF BUSINESS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4J Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 77, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 39.01983281887834,
+               "lng" : -76.76231075197674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.01983281887834,
+                  "lng" : -76.76231075197674
+               },
+               "southwest" : {
+                  "lat" : 39.01983281887834,
+                  "lng" : -76.76231075197674
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f046330d5ec31ec2cae9b6d477117db97576e377",
+         "name" : "Martin Luther King Jr. Communication Arts Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
+         "plus_code" : {
+            "compound_code" : "JPXR+63 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+63"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 39.018552000562565,
+               "lng" : -76.76075128694367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.018552000562565,
+                  "lng" : -76.76075128694367
+               },
+               "southwest" : {
+                  "lat" : 39.018552000562565,
+                  "lng" : -76.76075128694367
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "1d9d44498dfbe21c0648ac84bb744f8c0b504fe4",
+         "name" : "Wyngate Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
+         "plus_code" : {
+            "compound_code" : "JPXR+C7 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+C7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Ponent, 58, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 38.98263653805963,
+               "lng" : -77.09883366061473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.98263653805963,
+                  "lng" : -77.09883366061473
+               },
+               "southwest" : {
+                  "lat" : 38.98263653805963,
+                  "lng" : -77.09883366061473
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "505e61fd02e5c93f011df301919f0563629e9b4a",
+         "name" : "Caroline Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               
+            }
+         ],
+         "place_id" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4F Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 116, Malgrat de Mar"
+      }
+   ],
+   "status" : "OK"
+}
